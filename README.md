@@ -1,4 +1,6 @@
-# Credits-INFORMATICONFIG-yt
+# Curso Microsoft SQL Server
+
+Credits-INFORMATICONFIG-yt
 
 ![Logo](/images/mssqlserver.png)
 
